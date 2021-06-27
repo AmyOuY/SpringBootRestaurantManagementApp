@@ -23,18 +23,6 @@
 <img src="./images/employees.png">
 
 <hr />
-<h3>DiningTable Controller -- inserting new dining table into database</h3>
-<img src="./images/addDiningTable.png">
-
-<hr />
-<h3>DiningTable Controller -- editing dining table</h3>
-<img src="./images/editDiningTable.png">
-
-<hr />
-<h3>DiningTable Controller -- viewing all dining tables. The Add Dining Table link, Edit link and Delete link allows inserting, editing and deleting the dining table respectively.</h3>
-<img src="./images/diningTables.png">
-
-<hr />
 <h3>Food Controller -- inserting new food type into database</h3>
 <img src="./images/addFoodType.png">
 
@@ -53,6 +41,18 @@
 <hr />
 <h3>Food Controller -- editing food</h3>
 <img src="./images/editFood.png">
+
+<hr />
+<h3>DiningTable Controller -- inserting new dining table into database</h3>
+<img src="./images/addDiningTable.png">
+
+<hr />
+<h3>DiningTable Controller -- editing dining table</h3>
+<img src="./images/editDiningTable.png">
+
+<hr />
+<h3>DiningTable Controller -- viewing all dining tables. The Add Dining Table link, Edit link and Delete link allows inserting, editing and deleting the dining table respectively.</h3>
+<img src="./images/diningTables.png">
 
 <hr />
 <h3>Order Controller -- inserting new food order for a specific dining table. The table number and attendant name can be selected from the dropdown lists. Both the food type list and food name list are cascading dropdowns. A selected food type will trigger foods that belong to this food type to populate in the food name dropdown. When a certain food name is chosen its price will be automatically filled in the price field. The View Order Detail button allows viewing the order details of the provided dining table number.</h3>
@@ -81,7 +81,7 @@
 <hr />
 <h3>Order Controller -- viewing the order summary of all active orders. The Add Order link, Detail link, Edit link and Delete link allows inserting new order, viewing ordered food details, editing order summary and deleting order summary respectively.
 </h3>
-<img src="./images/unpaidOrder.png">
+<img src="./images/unpaidOrders.png">
 
 <hr />
 <h3>Bill Controller -- searching the bill of a specific table. An error message will show up if the searched table doesn't exist or currently there is no active order for the searched table.
