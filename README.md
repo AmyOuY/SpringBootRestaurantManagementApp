@@ -1,8 +1,8 @@
 # Spring Boot Restaurant Management Application
 
 <ul>
-  <li>Created a restaurant management web application with Java Spring Boot MVC</li>
-  <li>The front-end views were created by Java Server Page (<strong>JSP</strong>) using HTML and Bootstrap</li>
+  <li>A restaurant management web application created by Java Spring Boot MVC</li>
+  <li>The front-end views were implemented with Java Server Page (<strong>JSP</strong>) using HTML and Bootstrap</li>
   <li>Back-end data was managed by MySQL and used Java Persistence API (<strong>JPA</strong>) as Object Relational Mapper (<strong>ORM</strong>)</li>
 </ul>
 
