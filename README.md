@@ -19,7 +19,7 @@
 <img src="./images/editEmployee.png">
 
 <hr />
-<h3>Employee Controller -- viewing all employees. The Add Employee link and the Edit link allows redirecting to the inserting new employee view and the editing employee view respectively. The Delete link directly deletes the employee.</h3>
+<h3>Employee Controller -- viewing all employees. The Add Employee link, Detail link and the Edit link allows redirecting to the inserting new employee view, employee info view and the editing employee view respectively. The Delete link directly deletes the employee.</h3>
 <img src="./images/employees.png">
 
 <hr />
