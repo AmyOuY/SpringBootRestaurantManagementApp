@@ -97,7 +97,7 @@
 <img src="./images/recordOrders.png">
 
 <hr />
-<h3>Record Controller -- viewing the ordered food details of all paid and unpaid orders. The Order ID for the ordered food of a specific dining table is 0 before bill payment and will be assigned to each of its ordered food after paying the bill.</h3>
+<h3>Record Controller -- viewing the ordered food details of all paid and unpaid orders. The Order ID for the ordered food of a specific dining table is 0 before bill payment and a new Order ID will be assigned to each of its ordered food after paying the bill.</h3>
 <img src="./images/recordOrderDetails.png">
 
 
