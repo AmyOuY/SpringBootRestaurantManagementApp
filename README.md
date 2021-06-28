@@ -7,7 +7,7 @@
 </ul>
 
 <hr />
-<h3> Home Page with controllers shown as dropdown lists in the menu bar </h3>
+<h3> Home Page with controllers shown as toggleable dropdowns in the menu bar </h3>
 <img src="./images/home.png">
 
 <hr />
