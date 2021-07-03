@@ -95,12 +95,15 @@ public class FoodController {
 	
 	@GetMapping("/foods")
 	public ModelAndView getFoods() {
+		System.out.println("to this place...");
 		
 		ModelAndView mv = new ModelAndView("food/foods");
 		
 		List<DisplayFood> foods = service.getDisplayFoods();
 		
 		mv.addObject("foods", foods);
+		
+		
 		
 		return mv;
 	}

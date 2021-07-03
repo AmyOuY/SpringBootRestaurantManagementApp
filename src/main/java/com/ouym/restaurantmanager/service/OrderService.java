@@ -28,6 +28,7 @@ public class OrderService {
 	@Autowired
 	private EmployeeService employeeService;
 	
+	
 	private double taxRate = 0.15;
 	
 
@@ -138,7 +139,7 @@ public class OrderService {
 	
 	
 	public String deleteOrder(int id) {
-		
+				
 		orderRepo.deleteById(id);
 		
 		return "Successfully deleted order: " + id;

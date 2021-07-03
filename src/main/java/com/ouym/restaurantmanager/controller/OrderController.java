@@ -404,7 +404,7 @@ public class OrderController {
 	
 	@RequestMapping("/deleteOrder/{id}")
 	public String deleteOrder(@PathVariable int id) {
-		
+				
 		orderService.deleteOrder(id);
 		
 		return "redirect:/unpaidOrders";

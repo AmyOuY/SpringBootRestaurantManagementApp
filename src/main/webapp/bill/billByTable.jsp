@@ -59,7 +59,8 @@
 				<input class="btn btn-warning" type="submit" value="Pay Bill">
 			</form>
 			
-			<div class="mt-5">
+			<br>
+			<div>
 				<a href="/unpaidOrders">Back to Unpaid Order List</a>
 			</div>
 			
