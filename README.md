@@ -77,7 +77,7 @@
 
 <hr />
 <h3>Order Controller -- viewing the order details of a specific dining table. In addition to the above View Order Detail request, the Search Order action can also lead to this page. The Add Order link, Detail link, Edit link, and Delete link allows inserting new order, viewing ordered food, editing ordered food and deleting ordered food respectively. If there is no question about the order for this specific dining table we can type in the table number and submit the order. The order needs to be submitted again whenever the order details are changed.</h3>
-<img src="./images/orderDetailsByTable.png">
+<img src="./images/orderDetailsByTable7.png">
 
 <hr />
 <h3>Order Controller -- viewing one ordered food of a specific dining table. The Edit link allows editing this ordered food and the Back To Order Detail by Table link allows redirecting to the order details of the specific dining table.</h3>
