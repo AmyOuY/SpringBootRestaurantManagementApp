@@ -20,10 +20,11 @@
 <img src="./images/unauthorizedWarning.png">
 
 <hr />
-<h3> Only users with the ADMIN role is allowed to view, add, update other registered users' info </h3>
+<h3> Only users with the ADMIN role is allowed to view all registered users, add new user and update other users' info </h3>
+<img src="./images/users.png">
 <img src="./images/addUser.png">
 <img src="./images/editUser.png">
-<img src="./imagesusers.png">
+
 
 
 <hr />
