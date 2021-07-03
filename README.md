@@ -4,11 +4,27 @@
   <li>A restaurant management web application created by Java Spring Boot MVC</li>
   <li>The front-end views were implemented with Java Server Page (<strong>JSP</strong>) using HTML and Bootstrap</li>
   <li>Back-end data was managed by MySQL and used Java Persistence API (<strong>JPA</strong>) as Object Relational Mapper (<strong>ORM</strong>)</li>
+  <li>The app uses Spring Security and Spring Data JPA to support Authentication and Role Based Authorization</li>
 </ul>
 
 <hr />
 <h3> Home Page with controllers shown as toggleable dropdowns in the menu bar </h3>
 <img src="./images/home.png">
+
+<hr />
+<h3> The app uses Spring Security and Spring Data JPA to support Authentication and Role Based Authorization, which requires user login to use the app </h3>
+<img src="./images/login.png">
+
+<hr />
+<h3> Unauthorized user is barred from using specific functions of the app </h3>
+<img src="./images/unauthorizedWarning.png">
+
+<hr />
+<h3> Only users with the ADMIN role is allowed to view, add, update other registered users' info </h3>
+<img src="./images/addUser.png">
+<img src="./images/editUser.png">
+<img src="./imagesusers.png">
+
 
 <hr />
 <h3>Employee Controller -- inserting new employee into database</h3>
