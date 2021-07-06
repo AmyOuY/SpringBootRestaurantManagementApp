@@ -23,7 +23,8 @@
 	<br>
 	<br>
 	<div class="text-center mt-5">
-	    <h1 class="display-5 text-primary">Welcome To Restaurant Management Application</h1>		
+	    <h1 class="display-5 text-primary">Welcome To Restaurant Management Application</h1>	
+	    <h1 class="display-5 text-primary">Please <a href="/login" class="text-danger">login</a> to use the app</h1>	
 	</div>	
 
 </body>
