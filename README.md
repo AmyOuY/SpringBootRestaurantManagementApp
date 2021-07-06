@@ -1,7 +1,7 @@
 # Spring Boot Restaurant Management Application
 
 <ul>
-  <li>Used Java Spring Boot MVC to create a restaurant management web application (the same business logic as the “Docker Containerized Restaurant Management App” repository)</li>
+  <li>Used Java Spring Boot MVC to create a restaurant management web application (the same business logic as the <a href="https://github.com/AmyOuY/ContainerizedRestaurantManagementApp">“Docker Containerized Restaurant Management App” repository</a>)</li>
   <li>The front-end views were implemented with Java Server Page (<strong>JSP</strong>) using HTML and Bootstrap</li>
   <li>Back-end data was managed by MySQL and used Spring Data JPA (Java Persistence API) to access the data</li>
   <li>The app used Spring Security and JPA to support Authentication and Role Based Authorization</li>
@@ -9,7 +9,7 @@
 
 <hr />
 <h3> Home Page with controllers shown as toggleable dropdowns in the menu bar </h3>
-<img src="./images/home.png">
+<img src="./images/home_2.png">
 
 <hr />
 <h3> The app uses Spring Security and Spring Data JPA to support Authentication and Role Based Authorization, which requires user login to use the app </h3>
